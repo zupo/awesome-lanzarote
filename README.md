@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>A collection of useful links for digital nomads &amp; expats in Lanzarote</b><br><br>
-  <a href="https://www.youtube.com/watch?v=SDUCijNKkoA"><img src="https://media.giphy.com/media/BB8SVJqJj2L7L6dpBy/giphy.gif"></a>
+  <a href="https://www.youtube.com/watch?v=SDUCijNKkoA"><img src="https://raw.githubusercontent.com/zupo/awesome-lanzarote/main/header.gif"></a>
   <br>
   <a href="#work">Work</a> |
   <a href="#live">Live</a> |
@@ -30,6 +30,7 @@ Lanzarote is the third most populous Canary Island, after Tenerife and Gran Cana
 * You need a car, at least every now & then.
 * IKEA
 * Weather & what to wear
+* No dangerous/annoying animals
 
 # Enjoy
 
