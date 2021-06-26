@@ -22,7 +22,19 @@ Lanzarote is the third most populous Canary Island, after Tenerife and Gran Cana
   * 4G coverage in most places
   * FTTH in most touristic places
   * Generally speaking the Internet connection from canarias is great due to observatoriums
-* Coworking info
+
+## Internet
+
+Canary Islands have long been a hub for submarine telecommunications cables running from mainland Europe to Africa and South America. Due to good geography they are home to a number of (https://www.go-astronomy.com/observatories-canary-islands.php)[observatories] producing heaps of data every night. These two facts combined mean that the archipelago has suprisingly good internet connection, all things considered. The main limitation to get fast speed are the local providers.
+
+On Lanzarote, most developed areas got fibre in recent years. Which forced the 4G providers to remove GB limits and modernize their networks. While it was somewhat tricky to get good broadband ~5 years ago, today unlimited broadband is everywhere where there are tourists. The vast majority of villas and apartments have either FTTH or fast 4G, some are still on slower ADSL. Check before you book.  
+
+If you are a EU citizen, you can probably use your SIM without major charges. Alternatively, you can get a prepaid SIM card at one of the three main providers:
+* [Movistar](https://www.movistar.es/particulares/movil/tarifas-moviles/tarjeta-sim-prepago/) (20€: 75GB, valid for one month)
+* [Vodafone](https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/prepago-y-recargas/tarifas-de-prepago/tarifa-prepago-l/) (20€: 70GB, valid for one month)
+* [Yoigo](https://www.yoigo.com/tarifas-tarjeta) (20€: 16GB, valid for one month)
+
+All three use the same infrastructure, so there are no major differences in speed and coverage. They all have multiple shops around the island, use your favorite mapping software to find them.
 
 # Live
 
