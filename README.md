@@ -17,12 +17,6 @@ Lanzarote is the third most populous Canary Island, after Tenerife and Gran Cana
 
 # Work
 
-* You can work anywhere:
-  * Cafes and restaurants are used to people with laptops
-  * 4G coverage in most places
-  * FTTH in most touristic places
-  * Generally speaking the Internet connection from canarias is great due to observatoriums
-
 ## Internet
 
 Canary Islands have long been a hub for submarine telecommunications cables running from mainland Europe to Africa and South America. Due to good geography they are home to a number of (https://www.go-astronomy.com/observatories-canary-islands.php)[observatories] producing heaps of data every night. These two facts combined mean that the archipelago has suprisingly good internet connection, all things considered. The main limitation to get fast speed are the local providers.
@@ -35,6 +29,13 @@ If you are a EU citizen, you can probably use your SIM without major charges. Al
 * [Yoigo](https://www.yoigo.com/tarifas-tarjeta) (20€: 16GB, valid for one month)
 
 All three use the same infrastructure, so there are no major differences in speed and coverage. They all have multiple shops around the island, use your favorite mapping software to find them.
+
+## Coworking
+
+* No good options, there was one, but they closed
+* This is because families are here and people work from their villa/apartment, no need for a central coworking space to "hang out"
+* You can work anywhere:
+  * Cafes and restaurants are used to people with laptops
 
 # Live
 
