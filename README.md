@@ -1,3 +1,4 @@
+# Awesome Lanzarote
 
 <p align="center">
   <b>A collection of useful links for digital nomads &amp; expats in Lanzarote</b><br><br>
