@@ -35,17 +35,22 @@ All four use the same infrastructure, so there are no major differences in [spee
 
 2020 saw a huge influx of remote workers coming to Lanzarote. The local [Digital Nomads & Remote Workers](https://www.facebook.com/groups/lanzarotedigitalnomads) Facebook group is bustling with activity and recommendations and they keep an updated list of [digital workers friendly places](https://www.google.com/maps/d/u/0/viewer?fbclid=IwAR0K706pmaXW7SnxTq3QqIbTfGGUf1a8C6Tk-hN2VMYdpc_WTTvgnnd833g&mid=1dFPBvTmbgFVEqMyrbZ9ss4KxIeodHeMm&ll=29.04262030608178%2C-13.591215089555734&z=10). Join their [Telegram Group](https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2Flanzarotedigital%3Ffbclid%3DIwAR3L1z1UEB0k0rhtFyAJ9qphS4lf3YwS64uFoTP87VGUomi5u6KDzi-DXrM&h=AT2tzk8zbW3XAcdb_WlqGYcDKc7cGplEquZCwWX-0BOXhUSxm8yEghc4TRhfq-gu6WBYFuL0h0bVmnoH3Qf_niIRV0w5wneOeSphwc6pHdnOXBJEBMh127q3f2-HuEU0oR7B7SM&__tn__=-UK-R&c[0]=AT3aKGKz7HsqmLrP7HcDVTTpKdVvGNEyVwVeKhL6QQnzVzpvqfV3bhUu_bMdsz-Fed3ztNwFOL0zAhAVJDKHnqCtl2SBT0MuP7JQiJtjJsGriax1xrhJbWEA2whSuzLCOAZycwa8NE1kyUUm7c2V5jm0N4GH) to see where people are meeting up this week. 
 
-There are two coworking places: [The Square](The Square) and [Espacio Siono](https://www.facebook.com/espaciosiono-104063281156848/), both in Arrecife, the capital of the island. There was another one, [Lanzarote Coworking](http://www.lanzarotecoworking.com/en), that sadly had to close.
+There are two coworking places: [The Square](https://www.facebook.com/thesquareespaciodetrabajo/) and [Espacio Siono](https://www.facebook.com/espaciosiono-104063281156848/), both in Arrecife, the capital of the island. There was another one, [Lanzarote Coworking](http://www.lanzarotecoworking.com/en), that sadly had to close. Even though there are no official coworking places in Costa Teguise and Puerto del Carmen, most bars and restaurants have gotten used to tons of expacts working on laptops, so it's easy to find a place to work. The local government is [working hard to make it easy to work remotely](https://teguise.es/remote-workers-your-life-in-teguise/).
 
-Most villas and appartments provide broadband Internet, here's a list of a few that even have fiber: https://fiber-optic-accommodations.com/spain/canary-islands/lanzarote/
+Most villas and appartments provide ADSL or 4G broadband Internet, 100+ Mbps fiber is [increasingly common](https://fiber-optic-accommodations.com/spain/canary-islands/lanzarote/). 
 
 # Live
+
+* http://www.lanzarotecoworking.com/en/blog/read/271904636/where-to-stay-on-lanzarote
+* https://thenomadvisor.com/where-to-stay-in-lanzarote/
+* https://www.guidetocanaryislands.com/where-to-stay-in-lanzarote/
+* https://www.alpharooms.com/blog/best-areas-stay-lanzarote
 
 ## Three main resort areas
 
 ### [Puerto del Carmen](https://www.puertodelcarmen.com/en/)
 
-The first and the biggest resort town on Lanzarote. Lots of hotels, villas, restaurants, shops. Very touristy feel. Long beachside promenade with lots of people doing various sports. Right at the end there is Puerto Calero, a fancy marina with upmarket villas, but no beach and not much to do if you don't have a car.
+The first and the biggest resort town on Lanzarote. Lots of hotels, villas, restaurants, shops. Very touristy feel. Long beachside promenade. This is a good default choice if you can't decide where to stay. A bit further West there is [Puerto Calero](https://www.caleromarinas.com/en/puerto-calero/), a fancy marina with upmarket villas, but no beach(!) and not much to do if you don't have a car.
 
 ### [Playa Blanca](https://turismolanzarote.com/en/beach/playa-de-playa-blanca-blanca-beach/)
 
@@ -53,7 +58,7 @@ Even more resort-y than Puerto Del carmen, and also quite far away from everythi
 
 ### [Costa Teguise](https://turismoteguise.com/en/)
 
-Smaller than Puerto del Carmen ("PDC") but much better local vibe. Its smaller size makes it very convenient, if you stay in the central [Las Cucharas](https://turismoteguise.com/en/beach-las-cucharas.php) area, everything is walkable: beaches, supermarkets, pharmacies, restaurants, playgrounds, international school, etc. Recently renovated beachside promenade with outside gyms and playgrounds. Best location to explore the island, shortest distance to most sights. Higher chance of being windy than the other two, which is somewhat mitigated by the buildings being oriented in a way to block the wind.
+Smaller than Puerto del Carmen ("PDC") but much better local vibe. Its smaller size makes it very convenient, if you stay in the central [Las Cucharas](https://turismoteguise.com/en/beach-las-cucharas.php) area, everything is walkable: beaches, supermarkets, pharmacies, restaurants, playgrounds, international school, etc. Recently renovated beachside promenade with outside gyms and playgrounds. Great central location to explore the island. Lots of options for doing various sports. Higher chance of being windy than the other two, which is somewhat mitigated by the buildings being oriented in a way to block the wind.
 
 ## Less mainstream areas
 
@@ -61,7 +66,7 @@ Smaller than Puerto del Carmen ("PDC") but much better local vibe. Its smaller s
 
 A surfing village with a huge sandy beach. Bohemian vibe, sandy streets, lots of young people learning to surf in numerous surf schools. Definitely an interesting experience, but could be too much for families with small kids, especially for longer stays. Often windy and somewhat cloudy.
 
-### Arrieta / Punta Mujeres
+### [Arrieta / Punta Mujeres](https://lanzaroteinformation.co.uk/arrieta/)
 
 Two small fishing villages, absolutely beautiful, amazing scenery, good local restaurants, but somewhat non-central location so not great for exploring the island. Often windy and gets some clouds.
 
@@ -77,7 +82,7 @@ But if you at all can, rent a car. From Costa Teguise, for example, most things 
 
 ## Groceries
 
-International chain stores such as Spar, Lidl (best for dairy products), Mercadona (fantastic fish) and IKEA are on the outskirts of Arrecife, 10 minutes drive from Costa Teguise, 20 minutes from Puerto del Carmen and Famara. 
+International chain stores such as Spar, [Lidl](https://www.google.com/search?q=lidl+lanzarote&tbm=lcl&sxsrf=ALeKk03bXsDwcuNUSZ3lQvahXCOhjp2A5g%3A1624793607789&ei=B2LYYLSkL8rnkgWg8pvYAQ&oq=lidl+lanzarote&gs_l=psy-ab.3..35i39k1j0i7i30k1l7j0l2.27832.28068.0.28247.4.4.0.0.0.0.177.449.0j3.3.0....0...1c.1.64.psy-ab..3.1.176....0.ZBOFmNIEb54#rlfi=hd:;si:11671395049251110611,l,Cg5saWRsIGxhbnphcm90ZSIDiAEBSLKbvpa6rYCACFoaEAAYACIObGlkbCBsYW56YXJvdGUqBAgCEACSARRkaXNjb3VudF9zdXBlcm1hcmtldKoBDBABKggiBGxpZGwoAA;mv:[[28.976614299999998,-13.5286355],[28.923672399999997,-13.673473999999999]]) (best for dairy products), [Mercadona](https://www.google.com/search?q=mercadona%20lanzarote&oq=mercadona+lanzarote&aqs=chrome..69i57j0j0i22i30l8.2836j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:4&tbm=lcl&sxsrf=ALeKk03H8eI6A42nnWvY5pCQCp54y1p3Fw:1624793528606&rflfq=1&num=10&rldimm=6452982666858547086&lqi=ChNtZXJjYWRvbmEgbGFuemFyb3RlIgOIAQFI6cin5ZyqgIAIWh8QABgAIhNtZXJjYWRvbmEgbGFuemFyb3RlKgQIAhAAkgELc3VwZXJtYXJrZXSqAREQASoNIgltZXJjYWRvbmEoDg&ved=2ahUKEwilx-vI27fxAhUD3aQKHaVaBLwQvS4wAXoECBgQJg&rlst=f#rlfi=hd:;si:6452982666858547086,l,ChNtZXJjYWRvbmEgbGFuemFyb3RlIgOIAQFI6cin5ZyqgIAIWh8QABgAIhNtZXJjYWRvbmEgbGFuemFyb3RlKgQIAhAAkgELc3VwZXJtYXJrZXSqAREQASoNIgltZXJjYWRvbmEoDg;mv:[[28.973493899999998,-13.5427981],[28.958724699999994,-13.5952875]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:4) (best for fish products) and [IKEA](https://www.islas.ikea.es/lanzarote/es/) are on the outskirts of Arrecife, 10 minutes drive from Costa Teguise, 20 minutes from Puerto del Carmen and Famara. A budget-friendly Hiperdino store is never more than a few minutes away. 
 
 There are two local supermarket chains also work visiting: Roper and Chacon. Both have a wide selection of high-quality local meat & fish products, cheese, beers wines, etc.
 
@@ -111,13 +116,20 @@ The general approach to getting the best weather conditions every day is to [loo
 
 There are none. 
 
-No snakes, no venomous spiders, no predators, no big game. The occasional annoying mosquito, but nothing compared to summer in mainland Europe. No malaria or zika. Very little bees, wasps even rarer. 
+No snakes, no venomous spiders, no predators, no big game. The occasional annoying mosquito, but nothing compared to summer in mainland Europe. No malaria or zika. Very little bees, wasps even rarer. Few people ever use repellents here. 
 
 The ocean is teeming with wildlife, watersports enthusiasts regularly see dolphins, whales, flying fish, turtles, even sharks. Most areas around the island are UNESCO protected and cannot be fished. This seems to keep the wildlife happy and humans safe. There hasn't been a shark attack in over 50 years. 
 
 Some years a fleet of jellyfish floats by the island, keeping swimmers on land for a few days. 
 
 By FAR the most dangerous thing on the island are ocean currents. DO NOT GO INTO THE WATER if there are no lifeguards on duty. Serisously, do not. People die every year. The ocean is very strong, and waves come in groups. One minute you can be totaly fine, walking knee-deep in the water on a beautiful sandy beach and the next thing you know you get knocked over by a river of whitewater and sucked out into the impact zone. Again, people die every year, even whole families, when parents run in to save their kids. Please be careful, only go near the ocean on lifeguard protected beaches (Costa Teguise, Puerto del Carmen, Famara, ...). 
+
+More info:
+* https://lanzaroteinformation.co.uk/lanzarote-wildlife
+* https://visitlanzarote.es/weird-wonderful-creatures-lanzarote/
+* https://commons.wikimedia.org/wiki/Category:Insects_of_Lanzarote
+* https://lanzaroteinformation.co.uk/insects-will-find-lanzarote/
+
 
 ## Health
 
