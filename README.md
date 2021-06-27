@@ -39,6 +39,12 @@ There are two coworking places: [The Square](https://www.facebook.com/thesquaree
 
 Most villas and appartments provide ADSL or 4G broadband Internet, 100+ Mbps fiber is [increasingly common](https://fiber-optic-accommodations.com/spain/canary-islands/lanzarote/). 
 
+## Events
+
+* [Lanzarote Wordpress Meetup](https://www.meetup.com/Arrecife-WordPress-Meetup/)
+* [Lanzarote Makers](https://www.facebook.com/MakersLanzarote/)
+* [NixOS sprint](https://oceansprint.org/)
+
 # Live
 
 * http://www.lanzarotecoworking.com/en/blog/read/271904636/where-to-stay-on-lanzarote
