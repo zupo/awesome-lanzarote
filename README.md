@@ -13,22 +13,23 @@
 
 # Lanzarote TL;DR:
 
-Lanzarote is the third most populous Canary Island, after Tenerife and Gran Canaria. Decades ago its target was low-cost all-inclusive mass tourism, but the island went through quite a bit of gentrification in recent years, due to its stunning UNESCO-protected natural gifts and vast cultural heritage of its famous sculptor/architect [Cesar Manrique](https://www.google.com/search?q=cesar+manrique&source=lnms&tbm=isch). It's not the best if you are on a budget (go to Fuerteventura) or if parties are your main focus (go to Tenerife or Gran Canaria). Lanzarote is perfect for couples that value a healthy lifestyle and want to spend time outdoors. Especially if you have small kids: it's incredibly safe, clean & convenient. 
+[Lanzarote](https://turismolanzarote.com/en/) is the third most populous Canary Island, after Tenerife and Gran Canaria. Decades ago its target was low-cost all-inclusive mass tourism, but the island went through quite a bit of gentrification in recent years, due to its stunning UNESCO-protected natural gifts and vast cultural heritage of its famous sculptor/architect [Cesar Manrique](https://www.google.com/search?q=cesar+manrique&source=lnms&tbm=isch). It's not the best if you are on a budget (go to Fuerteventura) or if parties are your main focus (go to Tenerife or Gran Canaria). Lanzarote is perfect for couples that value a healthy lifestyle and want to spend time outdoors. Especially if you have small kids: it's incredibly safe, clean & convenient. 
 
 # Work
 
 ## Internet
 
-Canary Islands have long been a hub for submarine telecommunications cables running from mainland Europe to Africa and South America. Due to good geography they are home to a number of (https://www.go-astronomy.com/observatories-canary-islands.php)[observatories] producing heaps of data every night. These two facts combined mean that the archipelago has suprisingly good internet connection, all things considered. The main limitation to get fast speed are the local providers.
+Canary Islands have long been a hub for submarine telecommunications cables running from mainland Europe to Africa and South America. Due to good geography they are home to a number of [observatories](https://www.go-astronomy.com/observatories-canary-islands.php) producing heaps of data every night. These two facts combined mean that the archipelago has suprisingly good internet connection, all things considered. The main limitation to get fast speed are the local providers.
 
 On Lanzarote, most developed areas got fibre in recent years. Which forced the 4G providers to remove GB limits and modernize their networks. While it was somewhat tricky to get good broadband ~5 years ago, today unlimited broadband is everywhere where there are tourists. The vast majority of villas and apartments have either FTTH or fast 4G, some are still on slower ADSL. Check before you book.  
 
-If you are a EU citizen, you can probably use your SIM without major charges. Alternatively, you can get a prepaid SIM card at one of the three main providers:
+If you are a EU citizen, you can probably use your SIM without major charges. Alternatively, you can get a prepaid SIM card at one of the four main providers:
 * [Movistar](https://www.movistar.es/particulares/movil/tarifas-moviles/tarjeta-sim-prepago/) (20€: 75GB, valid for one month)
 * [Vodafone](https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/prepago-y-recargas/tarifas-de-prepago/tarifa-prepago-l/) (20€: 70GB, valid for one month)
 * [Yoigo](https://www.yoigo.com/tarifas-tarjeta) (20€: 16GB, valid for one month)
+* [Orange](https://en.orange.es/) (20€: 35GB, valid for one month)
 
-All three use the same infrastructure, so there are no major differences in speed and coverage. They all have multiple shops around the island, use your favorite mapping software to find them.
+All four use the same infrastructure, so there are no major differences in [speed and coverage](https://www.nperf.com/en/map/ES/6355013.Puerto-del-Carmen/168910.Movistar-Movil/signal/?ll=29.04522003342125&lg=-13.649129513651134&zoom=11). They all have multiple shops around the island, use your favorite mapping software to find them.
 
 ## Coworking
 
@@ -42,21 +43,21 @@ Most villas and appartments provide broadband Internet, here's a list of a few t
 
 ## Three main resort areas
 
-### Puerto del Carmen
+### [Puerto del Carmen](https://www.puertodelcarmen.com/en/)
 
-The first and today the biggest resort town on Lanzarote. Lots of hotels, villas, restaurants, shops. Very touristy feel. Long beachside promenade with lots of people doing various sports. Right at the end there is Puerto Calero, a fancy marina with upmarket villas, but no beach and not much to do if you don't have a car.
+The first and the biggest resort town on Lanzarote. Lots of hotels, villas, restaurants, shops. Very touristy feel. Long beachside promenade with lots of people doing various sports. Right at the end there is Puerto Calero, a fancy marina with upmarket villas, but no beach and not much to do if you don't have a car.
 
-### Playa Blanca
+### [Playa Blanca](https://turismolanzarote.com/en/beach/playa-de-playa-blanca-blanca-beach/)
 
 Even more resort-y than Puerto Del carmen, and also quite far away from everything so not ideal if you plan to explore the island. Still, has everything you need if you don't plan to wander around. Gets the most sunshine on the island. 
 
-### Costa Teguise
+### [Costa Teguise](https://turismoteguise.com/en/)
 
-Smaller than Puerto del Carmen ("PDC") but much better local vibe. Its smaller size makes it very convenient, if you stay in the central "Las Cucharas" area, everything is walkable: beaches, supermarkets, pharmacies, restaurants, playgrounds, international school, etc. Recently renovated beachside promenade with outside gyms and playgrounds. Best location to explore the island, shortest distance to most sights. Higher chance of being windy than the other two, which is somewhat mitigated by the buildings being oriented in a way to block the wind.
+Smaller than Puerto del Carmen ("PDC") but much better local vibe. Its smaller size makes it very convenient, if you stay in the central [Las Cucharas](https://turismoteguise.com/en/beach-las-cucharas.php) area, everything is walkable: beaches, supermarkets, pharmacies, restaurants, playgrounds, international school, etc. Recently renovated beachside promenade with outside gyms and playgrounds. Best location to explore the island, shortest distance to most sights. Higher chance of being windy than the other two, which is somewhat mitigated by the buildings being oriented in a way to block the wind.
 
 ## Less mainstream areas
 
-### Famara
+### [Famara](https://turismolanzarote.com/en/beach/playa-de-famara-famara-beach/)
 
 A surfing village with a huge sandy beach. Bohemian vibe, sandy streets, lots of young people learning to surf in numerous surf schools. Definitely an interesting experience, but could be too much for families with small kids, especially for longer stays. Often windy and somewhat cloudy.
 
@@ -82,9 +83,28 @@ There are two local supermarket chains also work visiting: Roper and Chacon. Bot
 
 Even though Lanzarote is a semi-desert, the soil is very fertile and local farmers grow amazing vegetables all-year-round. If you have a car, the best place to buy local produce is [Fruteria Los Molinos](https://www.facebook.com/Costateguisefruteria/) and [Lanzafruit](https://www.google.com/maps/place/Lanzafrut+S.L./@28.9696263,-13.5632467,17z/data=!3m1!4b1!4m5!3m4!1s0xc46276dfda829d3:0x154ca56d0a4c41a!8m2!3d28.9694586!4d-13.5612172). Alternatively, you can order home delivery with [Huerto Canario](https://huertocanario.es/) -- they drive to the farms to collect everything and drop a box of goodness at your doorstep. 
 
+People with dietary restrictions will enjoy the selection of gluten-, milk-, egg-free and similar products offered in [Herbarium](https://www.herbariumlanzarote.com/).
+
 ## Weather
 
 Lanzarote is called the island of eternal spring. The usual attire all-year-round are flip-flops, shorts and a good hoodie. The Atlantic ocean acts as a temperature regulator: the water temperature is always around 20°C which makes sure that the air temperature is stable too: it oscilates between 18°C in the winter and 25°C in the summer. It's rarely cold or hot. Most days of the year, it's "just right" for light clothes and no need for heating or A/C. That said, you need a good hoodie or a hat to block the wind. 
+
+The general approach to getting the best weather conditions every day is to [look at the wind direction](https://www.windy.com/station/ad-GCRR?28.959,-13.553,10). Wind from the North? Go to places in the South, such as Puerto del Carmen and Playa Blanca. Wind from the South? Perfect to explore the beaches on the North side. Double-check the current conditions via webcams:
+* [La Garita beach Arrieta](https://www.ayuntamientodeharia.com/haria/?p=15860)
+* [Orzola village](https://www.ayuntamientodeharia.com/haria/webcam-orzola-haria/)
+* [Charco de Palo village](http://webcam.charcodelpalo.com/)
+* [Famara surf](https://elcrucesurf.com/webcam/)
+* [Tinajo](https://www.mediafish.es/en/live-web-cam) (close to Timanfaya national park)
+* [Arrecife airport](https://www.youtube.com/watch?v=doqBgKIBBh8&ab_channel=LanzaroteWebcam)
+* Puerto del Carmen
+  * [Los Pocillos beach HD](https://www.youtube.com/watch?v=f9dVWHKRP8o&ab_channel=LanzaroteWebcam)
+  * [Los Pocillos beach](https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas/lanzarote-puerto-del-carmen.html)
+  * [inland](https://www.mediafish.es/en/live-web-cam)
+* Costa Teguise
+  * [Las Cucharas beach](https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/playa-las-cucharas.html)
+  * [Las Cucharas beach](https://www.youtube.com/watch?v=DwUBp6lZrQE&ab_channel=BeachBarLanzarote)
+  * [Jablillo beach](https://nativediving.com/webcam-costa-teguise-lanzarote/)
+  * [windsurf](http://lascucharaswebcam.com/)
 
 
 ## Dangerous animals
@@ -113,6 +133,8 @@ There are also a number of private clinics:
 
 # Enjoy
 
+The first thing you do, is find a recent edition of the [Gazette Life](https://gazettelife.com/) magazine. They have it in most shops and touristic places, the information office even gives it out for free. Inside you get an up-to-date list of cultural events, trip ideas, weather forecast, dining recommendations.
+
 * Food
   * Restaurants
   * wine road
@@ -125,8 +147,9 @@ There are also a number of private clinics:
   * Aeronautic museum
   * Submarine
   * Sailing
+  * Dolphin watching
 * Culture
-* Sports
+* [Sports](https://lanzaroteesd.com/en/)
   * Hiking
   * Swimming
   * Running
