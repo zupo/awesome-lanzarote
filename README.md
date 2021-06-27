@@ -74,7 +74,7 @@ There is an OK bus network on lanzarote: https://lanzaroteinformation.co.uk/lanz
 
 But if you at all can, rent a car. From Costa Teguise, for example, most things to do are 20 to 30 minutes of driving away. Roads are good, the locals drive slow  and renting can be as cheap as 100€ per week -- gasoline is cheap too. [Payless](https://www.payless.es/) and [Autoreisen](https://autoreisen.com/) are the two most popular local providers of rentals.
 
-## Groceris
+## Groceries
 
 International chain stores such as Spar, Lidl (best for dairy products), Mercadona (fantastic fish) and IKEA are on the outskirts of Arrecife, 10 minutes drive from Costa Teguise, 20 minutes from Puerto del Carmen and Famara. 
 
