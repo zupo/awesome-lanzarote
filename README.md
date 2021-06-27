@@ -19,7 +19,7 @@ Lanzarote is the third most populous Canary Island, after Tenerife and Gran Cana
 
 ## Internet
 
-Canary Islands have long been a hub for submarine telecommunications cables running from mainland Europe to Africa and South America. Due to good geography they are home to a number of (https://www.go-astronomy.com/observatories-canary-islands.php)[observatories] producing heaps of data every night. These two facts combined mean that the archipelago has suprisingly good internet connection, all things considered. The main limitation to get fast speed are the local providers.
+Canary Islands have long been a hub for submarine telecommunications cables running from mainland Europe to Africa and South America. Due to good geography they are home to a number of [observatories](https://www.go-astronomy.com/observatories-canary-islands.php) producing heaps of data every night. These two facts combined mean that the archipelago has suprisingly good internet connection, all things considered. The main limitation to get fast speed are the local providers.
 
 On Lanzarote, most developed areas got fibre in recent years. Which forced the 4G providers to remove GB limits and modernize their networks. While it was somewhat tricky to get good broadband ~5 years ago, today unlimited broadband is everywhere where there are tourists. The vast majority of villas and apartments have either FTTH or fast 4G, some are still on slower ADSL. Check before you book.  
 
