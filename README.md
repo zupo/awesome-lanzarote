@@ -173,7 +173,7 @@ Lanzarote produces internationally renowned Malvasia, visit to [one of the winer
 
 ## Sports
 
-Lazarote is a [European Sports Destination](https://lanzaroteesd.com/en). It seems like everyone is into cycling, running, triathlon, surfing, kitesurfing, windsurfing, sailing, swimming, mountain biking, paragliding, yoga and more. During Covid, Lanzarote actually received a good number of turists, and this is most of them came here to do sports. 
+Lazarote is a [European Sports Destination](https://lanzaroteesd.com/en). It seems like everyone is into cycling, running, triathlon, surfing, kitesurfing, windsurfing, sailing, swimming, mountain biking, paragliding, yoga and more. 
 
 There are a number of international competitions happening every year:
 * [big wave surfing](https://www.youtube.com/watch?v=72Pt2A6c-7c&ab_channel=QuemaoClass)
