@@ -105,7 +105,11 @@ Take care of your skin, use sun screen with a high factor. The Sun is very stron
 
 Drink plenty of water. Tap water is not recommended. Ice cubes in bars are OK, since they are provided by specialist local companies using clean water. If you are staying longer, it's best to arrange weekly delivery of bottled water from a high-quality spring in Tenerife: https://canariasadomicilio.com/comprar-agua/. 
 
-Bring you EU health card, all emergencies, big and small, are handled free of charge in many local clinics. Costa Teguise has a brand new [public clinic](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00ECRXvYHd-md330A4iuE5ddvnFyg:1624785643053&q=costa+teguise+hospital&rflfq=1&num=10&ved=2ahUKEwiG1NuYvrfxAhUMDOwKHex0DFgQtgN6BAgGEAQ#rlfi=hd:;si:16379543462284876244;mv:[[28.993894604955045,-13.501928566483002],[28.9812064870568,-13.524673698929291],null,[28.987550740591736,-13.513301132706147],16]) with an amazing team of pediatricians. Remember to bring your EU health card. 
+Bring your EU health card, all emergencies, big and small, are handled free of charge in many local clinics. Costa Teguise has a brand new [public clinic](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00ECRXvYHd-md330A4iuE5ddvnFyg:1624785643053&q=costa+teguise+hospital&rflfq=1&num=10&ved=2ahUKEwiG1NuYvrfxAhUMDOwKHex0DFgQtgN6BAgGEAQ#rlfi=hd:;si:16379543462284876244;mv:[[28.993894604955045,-13.501928566483002],[28.9812064870568,-13.524673698929291],null,[28.987550740591736,-13.513301132706147],16]) with an amazing team of pediatricians. Remember to bring your EU health card. 
+
+There are also a number of private clinics:
+* [Clinica Jorgani](https://www.cmjorgani.com/) in Costa Teguise
+* [Hospiten](https://hospiten.com/en/hospitals-and-centers/hospiten-lanzarote) in Puerto del Carmen
 
 # Enjoy
 
