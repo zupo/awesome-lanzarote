@@ -86,7 +86,6 @@ Even though Lanzarote is a semi-desert, the soil is very fertile and local farme
 
 Lanzarote is called the island of eternal spring. The usual attire all-year-round are flip-flops, shorts and a good hoodie. The Atlantic ocean acts as a temperature regulator: the water temperature is always around 20°C which makes sure that the air temperature is stable too: it oscilates between 18°C in the winter and 25°C in the summer. It's rarely cold or hot. Most days of the year, it's "just right" for light clothes and no need for heating or A/C. That said, you need a good hoodie or a hat to block the wind. 
 
-Take care of your skin, use sun screen with a high factor. 
 
 ## Dangerous animals
 
@@ -100,6 +99,13 @@ Some years a fleet of jellyfish floats by the island, keeping swimmers on land f
 
 By FAR the most dangerous thing on the island are ocean currents. DO NOT GO INTO THE WATER if there are no lifeguards on duty. Serisously, do not. People die every year. The ocean is very strong, and waves come in groups. One minute you can be totaly fine, walking knee-deep in the water on a beautiful sandy beach and the next thing you know you get knocked over by a river of whitewater and sucked out into the impact zone. Again, people die every year, even whole families, when parents run in to save their kids. Please be careful, only go near the ocean on lifeguard protected beaches (Costa Teguise, Puerto del Carmen, Famara, ...). 
 
+## Health
+
+Take care of your skin, use sun screen with a high factor. The Sun is very strong here, even in the winter months. 
+
+Drink plenty of water. Tap water is not recommended. Ice cubes in bars are OK, since they are provided by specialist local companies using clean water. If you are staying longer, it's best to arrange weekly delivery of bottled water from a high-quality spring in Tenerife: https://canariasadomicilio.com/comprar-agua/. 
+
+Bring you EU health card, all emergencies, big and small, are handled free of charge in many local clinics. Costa Teguise has a brand new [public clinic](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00ECRXvYHd-md330A4iuE5ddvnFyg:1624785643053&q=costa+teguise+hospital&rflfq=1&num=10&ved=2ahUKEwiG1NuYvrfxAhUMDOwKHex0DFgQtgN6BAgGEAQ#rlfi=hd:;si:16379543462284876244;mv:[[28.993894604955045,-13.501928566483002],[28.9812064870568,-13.524673698929291],null,[28.987550740591736,-13.513301132706147],16]) with an amazing team of pediatricians. Remember to bring your EU health card. 
 
 # Enjoy
 
