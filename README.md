@@ -62,7 +62,7 @@ Smaller than Puerto del Carmen ("PDC") but much better local vibe. Its smaller s
 
 ## Less mainstream areas
 
-### [Famara](https://turismolanzarote.com/en/beach/playa-de-famara-famara-beach/)
+### [Famara](https://www.caleta-de-famara.com/)
 
 A surfing village with a huge sandy beach. Bohemian vibe, sandy streets, lots of young people learning to surf in numerous surf schools. Definitely an interesting experience, but could be too much for families with small kids, especially for longer stays. Often windy and somewhat cloudy.
 
@@ -145,32 +145,40 @@ There are also a number of private clinics:
 
 # Enjoy
 
-The first thing you do, is find a recent edition of the [Gazette Life](https://gazettelife.com/) magazine. They have it in most shops and touristic places, the information office even gives it out for free. Inside you get an up-to-date list of cultural events, trip ideas, weather forecast, dining recommendations.
+The first thing you do is find a recent edition of the [Gazette Life](https://gazettelife.com/) magazine. They have it in most shops and touristic places, the information office even gives it out for free. Inside you get an up-to-date list of cultural events, trip ideas, weather forecast, dining recommendations.
 
-* Food
-  * Restaurants
-  * wine road
-  * gastro festival
-* Sights
-  * Caves
-  * Timanfaya
-  * Museums
-  * Cesar's houses
-  * Aeronautic museum
-  * Submarine
-  * Sailing
-  * Dolphin watching
-* Culture
-* [Sports](https://lanzaroteesd.com/en/)
-  * Hiking
-  * Swimming
-  * Running
-  * Cycling
-  * Triathlon 
-  * MTB
-  * Surfing
-  * Windsurfing
-  * Kitesurfing
-  * SUP
-  * Freediving
-  * Paragliding
+## Dining
+  
+* [Tasting Lanzarote website](https://saborealanzarote.org/en/)
+* [Tripadvisor Top 10](https://www.tripadvisor.com/Restaurants-g187477-Lanzarote_Canary_Islands.html)
+* [Culture Trip Top 10](https://theculturetrip.com/africa/canary-islands/articles/the-10-best-restaurants-in-lanzarote/)
+* [Lonely Planet Top 10](https://www.lonelyplanet.com/canary-islands/lanzarote/restaurants)
+
+Popular with locals:
+  * [La Bohemia](https://finallylost.com/restaurant-la-bohemia-for-real-meat-lovers/): steakhouse with a great wine selection
+  * [Arepera Jojoyo Y Millo](https://www.areperajojotoymillo.com/): husband & wife operated Colombian place
+  * [Leo's Burgers](http://www.leosburgerslanzarote.com/): opened during Covid, immediatelly popular
+  * [El Bocadito](http://tabernaelbocadito.com/): tapas and meat
+
+Lanzarote produces internationally renowned Malvasia, visit to [one of the wineries](https://turismolanzarote.com/en/sightseeing/wineries) is a must. If you happen to be in Lanzarote in November, do not miss the [Gastronomy Festival](https://festivalsaborealanzarote.com/), a two-day event where you can taste the best offering from the best restaurants and local producers. 
+
+## Sights
+
+* [Art, Culture and Tourism Centres of Lanzarote official website](https://www.cactlanzarote.com/en/)
+  * Caves & lava tubes
+  * Timanfaya vulcanic national park
+  * Science and art museums
+* [Dive 30 meters deep in a submarine](https://www.submarinesafaris.com/)
+* [Sailing](https://www.lanzaroteseatours.com/index.php/en/home/) and [Dolphin watching](https://www.waveriderlanzarote.com/) 
+
+## Sports
+
+Lazarote is a [European Sports Destination](https://lanzaroteesd.com/en). It seems like everyone is into cycling, running, triathlon, surfing, kitesurfing, windsurfing, sailing, swimming, mountain biking, paragliding, yoga and more. During Covid, Lanzarote actually received a good number of turists, and this is most of them came here to do sports. 
+
+There are a number of international competitions happening every year:
+* [big wave surfing](https://www.youtube.com/watch?v=72Pt2A6c-7c&ab_channel=QuemaoClass)
+* [one of the longest standing European ironman races](https://www.youtube.com/watch?v=FUrI0GPkBUo&ab_channel=ClubLaSanta)
+* [mountain bike race over vulcanos](https://www.youtube.com/watch?time_continue=39&v=34ew4uOmr2c&feature=emb_title&ab_channel=ClubLaSanta)
+* [foil windsurfing race around the island](https://www.youtube.com/watch?v=4r3Sk5T5-NE&ab_channel=LanzaroteDeportiva)
+* [freestyle windsurfing European tour](https://vimeo.com/137472647)
+* [sailing regatta](https://www.lanzarotewinterseries.com/)
