@@ -13,7 +13,11 @@
 
 # Lanzarote TL;DR:
 
-[Lanzarote](https://turismolanzarote.com/en/) is the third most populous Canary Island, after Tenerife and Gran Canaria. Decades ago its target was low-cost all-inclusive mass tourism, but the island went through quite a bit of gentrification in recent years, due to its stunning UNESCO-protected natural gifts and vast cultural heritage of its famous sculptor/architect [Cesar Manrique](https://www.google.com/search?q=cesar+manrique&source=lnms&tbm=isch). It's not the best if you are on a budget (go to Fuerteventura) or if parties are your main focus (go to Tenerife or Gran Canaria). Lanzarote is perfect for couples that value a healthy lifestyle and want to spend time outdoors. Especially if you have small kids: it's incredibly safe, clean & convenient. 
+[Lanzarote](https://turismolanzarote.com/en/) is the third most populous Canary Island, after Tenerife and Gran Canaria. 
+
+Decades ago its target was low-cost all-inclusive mass tourism, but the island went through quite a bit of gentrification in recent years, due to its stunning UNESCO-protected natural gifts and vast cultural heritage of its famous sculptor/architect [Cesar Manrique](https://www.google.com/search?q=cesar+manrique&source=lnms&tbm=isch). 
+
+It's not the best choice if you are on a budget (go to Fuerteventura) or if parties are your main focus (go to Tenerife or Gran Canaria). Lanzarote is perfect for couples that value a healthy lifestyle and want to spend time outdoors. Especially if you have small kids: it's incredibly safe, clean & convenient. 
 
 # Work
 
@@ -82,15 +86,15 @@ The capital of the Island. Busy narrow streets, very local and authentic feel. G
 
 ## Getting around
 
-There is an OK bus network on lanzarote: https://lanzaroteinformation.co.uk/lanzarote-buses-0/
+Rent a car for as cheap as 100€ per week -- gasoline is cheap too. From most parts of the island, most things to do are 20 to 30 minutes of driving away. Roads are good, the locals drive slow. [Payless](https://www.payless.es/) and [Autoreisen](https://autoreisen.com/) are the two most popular local providers of rentals.
 
-But if you at all can, rent a car. From Costa Teguise, for example, most things to do are 20 to 30 minutes of driving away. Roads are good, the locals drive slow  and renting can be as cheap as 100€ per week -- gasoline is cheap too. [Payless](https://www.payless.es/) and [Autoreisen](https://autoreisen.com/) are the two most popular local providers of rentals.
+There is also an [OK bus network on lanzarote](https://lanzaroteinformation.co.uk/lanzarote-buses-0/).
 
 ## Groceries
 
 International chain stores such as Spar, [Lidl](https://www.google.com/search?q=lidl+lanzarote&tbm=lcl&sxsrf=ALeKk03bXsDwcuNUSZ3lQvahXCOhjp2A5g%3A1624793607789&ei=B2LYYLSkL8rnkgWg8pvYAQ&oq=lidl+lanzarote&gs_l=psy-ab.3..35i39k1j0i7i30k1l7j0l2.27832.28068.0.28247.4.4.0.0.0.0.177.449.0j3.3.0....0...1c.1.64.psy-ab..3.1.176....0.ZBOFmNIEb54#rlfi=hd:;si:11671395049251110611,l,Cg5saWRsIGxhbnphcm90ZSIDiAEBSLKbvpa6rYCACFoaEAAYACIObGlkbCBsYW56YXJvdGUqBAgCEACSARRkaXNjb3VudF9zdXBlcm1hcmtldKoBDBABKggiBGxpZGwoAA;mv:[[28.976614299999998,-13.5286355],[28.923672399999997,-13.673473999999999]]) (best for dairy products), [Mercadona](https://www.google.com/search?q=mercadona%20lanzarote&oq=mercadona+lanzarote&aqs=chrome..69i57j0j0i22i30l8.2836j0j7&sourceid=chrome&ie=UTF-8&tbs=lf:1,lf_ui:4&tbm=lcl&sxsrf=ALeKk03H8eI6A42nnWvY5pCQCp54y1p3Fw:1624793528606&rflfq=1&num=10&rldimm=6452982666858547086&lqi=ChNtZXJjYWRvbmEgbGFuemFyb3RlIgOIAQFI6cin5ZyqgIAIWh8QABgAIhNtZXJjYWRvbmEgbGFuemFyb3RlKgQIAhAAkgELc3VwZXJtYXJrZXSqAREQASoNIgltZXJjYWRvbmEoDg&ved=2ahUKEwilx-vI27fxAhUD3aQKHaVaBLwQvS4wAXoECBgQJg&rlst=f#rlfi=hd:;si:6452982666858547086,l,ChNtZXJjYWRvbmEgbGFuemFyb3RlIgOIAQFI6cin5ZyqgIAIWh8QABgAIhNtZXJjYWRvbmEgbGFuemFyb3RlKgQIAhAAkgELc3VwZXJtYXJrZXSqAREQASoNIgltZXJjYWRvbmEoDg;mv:[[28.973493899999998,-13.5427981],[28.958724699999994,-13.5952875]];tbs:lrf:!1m4!1u3!2m2!3m1!1e1!2m1!1e3!3sIAE,lf:1,lf_ui:4) (best for fish products) and [IKEA](https://www.islas.ikea.es/lanzarote/es/) are on the outskirts of Arrecife, 10 minutes drive from Costa Teguise, 20 minutes from Puerto del Carmen and Famara. A budget-friendly Hiperdino store is never more than a few minutes away. 
 
-There are two local supermarket chains also work visiting: Roper and Chacon. Both have a wide selection of high-quality local meat & fish products, cheese, beers wines, etc.
+There are two local supermarket chains also work visiting: [Roper](https://g.page/SupermercadoRoper?share) and Chacon. Both have a wide selection of high-quality local meat & fish products, cheese, beers wines, etc.
 
 Even though Lanzarote is a semi-desert, the soil is very fertile and local farmers grow amazing vegetables all-year-round. If you have a car, the best place to buy local produce is [Fruteria Los Molinos](https://www.facebook.com/Costateguisefruteria/) and [Lanzafruit](https://www.google.com/maps/place/Lanzafrut+S.L./@28.9696263,-13.5632467,17z/data=!3m1!4b1!4m5!3m4!1s0xc46276dfda829d3:0x154ca56d0a4c41a!8m2!3d28.9694586!4d-13.5612172). Alternatively, you can order home delivery with [Huerto Canario](https://huertocanario.es/) -- they drive to the farms to collect everything and drop a box of goodness at your doorstep. 
 
@@ -98,7 +102,11 @@ People with dietary restrictions will enjoy the selection of gluten-, milk-, egg
 
 ## Weather
 
-Lanzarote is called the island of eternal spring. The usual attire all-year-round are flip-flops, shorts and a good hoodie. The Atlantic ocean acts as a temperature regulator: the water temperature is always around 20°C which makes sure that the air temperature is stable too: it oscilates between 18°C in the winter and 25°C in the summer. It's rarely cold or hot. Most days of the year, it's "just right" for light clothes and no need for heating or A/C. That said, you need a good hoodie or a hat to block the wind. 
+Lanzarote is called [the island of eternal spring](https://weatherspark.com/y/31818/Average-Weather-in-Arrecife-Spain-Year-Round#Sections-Temperature). 
+
+![2021-06-28-200955_699x489_escrotum](https://user-images.githubusercontent.com/126339/123683713-d81faa00-d84c-11eb-9fa5-ebe6fca66eae.png)
+
+The usual attire all-year-round are flip-flops, shorts and a good hoodie. The Atlantic ocean acts as a temperature regulator: the water temperature is always around 20°C which makes sure that the air temperature is stable too: it oscilates between 18°C in the winter and 25°C in the summer. It's rarely cold or hot. Most days of the year, it's "just right" for light clothes and no need for heating or A/C. That said, you need a good hoodie or a hat to block the wind. 
 
 The general approach to getting the best weather conditions every day is to [look at the wind direction](https://www.windy.com/station/ad-GCRR?28.959,-13.553,10). Wind from the North? Go to places in the South, such as Puerto del Carmen and Playa Blanca. Wind from the South? Perfect to explore the beaches on the North side. Double-check the current conditions via webcams:
 * [La Garita beach Arrieta](https://www.ayuntamientodeharia.com/haria/?p=15860)
@@ -141,7 +149,7 @@ More info:
 
 Take care of your skin, use sun screen with a high factor. The Sun is very strong here, even in the winter months. 
 
-Drink plenty of water. Tap water is not recommended. Ice cubes in bars are OK, since they are provided by specialist local companies using clean water. If you are staying longer, it's best to arrange weekly delivery of bottled water from a high-quality spring in Tenerife: https://canariasadomicilio.com/comprar-agua/. 
+Drink plenty of water. Tap water is not drinkable. Ice cubes in bars are OK, since they are provided by specialist local companies using clean water. If you are staying longer, it's best to arrange weekly delivery of bottled water from a high-quality spring in Tenerife: https://canariasadomicilio.com/comprar-agua/. 
 
 Bring your EU health card, all emergencies, big and small, are handled free of charge in many local clinics. Costa Teguise has a brand new [public clinic](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00ECRXvYHd-md330A4iuE5ddvnFyg:1624785643053&q=costa+teguise+hospital&rflfq=1&num=10&ved=2ahUKEwiG1NuYvrfxAhUMDOwKHex0DFgQtgN6BAgGEAQ#rlfi=hd:;si:16379543462284876244;mv:[[28.993894604955045,-13.501928566483002],[28.9812064870568,-13.524673698929291],null,[28.987550740591736,-13.513301132706147],16]) with an amazing team of pediatricians. Remember to bring your EU health card. 
 
