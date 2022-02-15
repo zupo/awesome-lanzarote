@@ -196,3 +196,4 @@ There are a number of international competitions happening every year:
 * [foil windsurfing race around the island](https://www.youtube.com/watch?v=4r3Sk5T5-NE&ab_channel=LanzaroteDeportiva)
 * [freestyle windsurfing European tour](https://vimeo.com/137472647)
 * [sailing regatta](https://www.lanzarotewinterseries.com/)
+* [scuba diving](https://www.youtube.com/watch?v=sRzoc90nH7c)
