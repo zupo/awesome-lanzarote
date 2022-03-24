@@ -169,10 +169,12 @@ The first thing you do is find a recent edition of the [Gazette Life](https://ga
 * [Lonely Planet Top 10](https://www.lonelyplanet.com/canary-islands/lanzarote/restaurants)
 
 Popular with locals:
-  * [La Bohemia](https://finallylost.com/restaurant-la-bohemia-for-real-meat-lovers/): steakhouse with a great wine selection
   * [Arepera Jojoyo Y Millo](https://www.areperajojotoymillo.com/): husband & wife operated Colombian place
-  * [Leo's Burgers](http://www.leosburgerslanzarote.com/): opened during Covid, immediatelly popular
+  * [Chacho Fresh](https://www.chachofreshburger.com/): burgers & beers for the hungry ones
   * [El Bocadito](http://tabernaelbocadito.com/): tapas and meat
+  * [La Bohemia](https://finallylost.com/restaurant-la-bohemia-for-real-meat-lovers/): steakhouse with a great wine selection
+  * [La Miñoca](https://www.facebook.com/laminoca): tex-mex with some local food, very popular between young people in the evening
+  * [Leo's Burgers](http://www.leosburgerslanzarote.com/): opened during Covid, immediatelly popular
 
 Lanzarote produces internationally renowned Malvasia, visit to [one of the wineries](https://turismolanzarote.com/en/sightseeing/wineries) is a must. If you happen to be in Lanzarote in November, do not miss the [Gastronomy Festival](https://festivalsaborealanzarote.com/), a two-day event where you can taste the best offering from the best restaurants and local producers. 
 
