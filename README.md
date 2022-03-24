@@ -54,7 +54,6 @@ Most villas and appartments provide ADSL or 4G broadband Internet, 100+ Mbps fib
 * http://www.lanzarotecoworking.com/en/blog/read/271904636/where-to-stay-on-lanzarote
 * https://thenomadvisor.com/where-to-stay-in-lanzarote/
 * https://www.guidetocanaryislands.com/where-to-stay-in-lanzarote/
-* https://www.alpharooms.com/blog/best-areas-stay-lanzarote
 
 ## Three main resort areas
 
