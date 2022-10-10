@@ -158,7 +158,7 @@ There are also a number of private clinics:
 
 # Enjoy
 
-The first thing you do is find a recent edition of the [Gazette Life](https://gazettelife.com/) magazine. They have it in most shops and touristic places, the information office even gives it out for free. Inside you get an up-to-date list of cultural events, trip ideas, weather forecast, dining recommendations.
+The first thing you do is find a recent edition of the [Gazette Life](https://gazettelife.com/) magazine. They have it in most shops and touristic places, the information office even gives it out for free. Inside you get an up-to-date list of cultural events, trip ideas, weather forecast, dining recommendations. Alternatively, an online list of events is available on https://whatson.lanzaroteinformation.co.uk/events/today/.
 
 ## Dining
   
