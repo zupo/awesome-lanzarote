@@ -33,7 +33,7 @@ If you are a EU citizen, you can probably use your SIM without major charges. Al
 * [Yoigo](https://www.yoigo.com/tarifas-tarjeta) (20€: 16GB, valid for one month, 30€: 150GB)
 * [Orange](https://en.orange.es/) (20€: 35GB, valid for one month)
 
-All four use the same infrastructure, so there are no major differences in [speed and coverage](https://www.nperf.com/en/map/ES/6355013.Puerto-del-Carmen/168910.Movistar-Movil/signal/?ll=29.04522003342125&lg=-13.649129513651134&zoom=11). They all have multiple shops around the island, use your favorite mapping software to find them.
+All four use the same infrastructure, so there are no major differences in [speed and coverage](https://www.nperf.com/en/map/ES/6355013.Puerto-del-Carmen/168910.Movistar-Movil/signal/?ll=29.04522003342125&lg=-13.649129513651134&zoom=11). They all have multiple shops around the island, use your favorite mapping software to find them. If a shop tells you a "NIE" (foreigner identification number) is required to buy a SIM, find a different shop. Most shops will gladly sell you a SIM by just showing them the EU ID card. 
 
 ## Coworking
 
