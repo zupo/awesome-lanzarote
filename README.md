@@ -41,7 +41,7 @@ All four use the same infrastructure, so there are no major differences in [spee
 
 There are two coworking places: [The Square](https://www.facebook.com/thesquareespaciodetrabajo/) and [Espacio Siono](https://www.facebook.com/espaciosiono-104063281156848/), both in Arrecife, the capital of the island. There was another one, [Lanzarote Coworking](http://www.lanzarotecoworking.com/en), that sadly had to close. Even though there are no official coworking places in Costa Teguise and Puerto del Carmen, most bars and restaurants have gotten used to tons of expacts working on laptops, so it's easy to find a place to work. The local government is [working hard to make it easy to work remotely](https://teguise.es/remote-workers-your-life-in-teguise/).
 
-Most villas and appartments provide ADSL or 4G broadband Internet, 100+ Mbps fiber is [increasingly common](https://fiber-optic-accommodations.com/spain/canary-islands/lanzarote/). 
+Most villas and appartments provide ADSL or 4G broadband Internet, 100+ Mbps fiber is increasingly common.
 
 ## Events
 
@@ -85,7 +85,7 @@ The capital of the Island. Busy narrow streets, very local and authentic feel. G
 
 ## Getting around
 
-Rent a car for as cheap as 100€ per week -- gasoline is cheap too. From most parts of the island, most things to do are 20 to 30 minutes of driving away. Roads are good, the locals drive slow. [Payless](https://www.payless.es/) and [Autoreisen](https://autoreisen.com/) are the two most popular local providers of rentals.
+Rent a car for as cheap as 100€ per week -- gasoline is cheap too. From most parts of the island, most things to do are 20 to 30 minutes of driving away. Roads are good, the locals drive slow. [Payless](https://www.payless.es/), [Autoreisen](https://autoreisen.com/) and [Plus Car](https://www.pluscar-lanzarote.com/) are the most popular local providers of rentals, with much better prices than global brands.
 
 There is also an [OK bus network on lanzarote](https://lanzaroteinformation.co.uk/lanzarote-buses-0/).
 
