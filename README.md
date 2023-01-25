@@ -39,7 +39,7 @@ All four use the same infrastructure, so there are no major differences in [spee
 
 2020 saw a huge influx of remote workers coming to Lanzarote. The local [Digital Nomads & Remote Workers](https://www.facebook.com/groups/lanzarotedigitalnomads) Facebook group is bustling with activity and recommendations and they keep an updated list of [digital workers friendly places](https://www.google.com/maps/d/u/0/viewer?fbclid=IwAR0K706pmaXW7SnxTq3QqIbTfGGUf1a8C6Tk-hN2VMYdpc_WTTvgnnd833g&mid=1dFPBvTmbgFVEqMyrbZ9ss4KxIeodHeMm&ll=29.04262030608178%2C-13.591215089555734&z=10). Join their [Telegram Group](https://l.facebook.com/l.php?u=https%3A%2F%2Ft.me%2Flanzarotedigital%3Ffbclid%3DIwAR3L1z1UEB0k0rhtFyAJ9qphS4lf3YwS64uFoTP87VGUomi5u6KDzi-DXrM&h=AT2tzk8zbW3XAcdb_WlqGYcDKc7cGplEquZCwWX-0BOXhUSxm8yEghc4TRhfq-gu6WBYFuL0h0bVmnoH3Qf_niIRV0w5wneOeSphwc6pHdnOXBJEBMh127q3f2-HuEU0oR7B7SM&__tn__=-UK-R&c[0]=AT3aKGKz7HsqmLrP7HcDVTTpKdVvGNEyVwVeKhL6QQnzVzpvqfV3bhUu_bMdsz-Fed3ztNwFOL0zAhAVJDKHnqCtl2SBT0MuP7JQiJtjJsGriax1xrhJbWEA2whSuzLCOAZycwa8NE1kyUUm7c2V5jm0N4GH) to see where people are meeting up this week. 
 
-There are two coworking places: [The Square](https://www.facebook.com/thesquareespaciodetrabajo/) and [Espacio Siono](https://www.facebook.com/espaciosiono-104063281156848/), both in Arrecife, the capital of the island. There was another one, [Lanzarote Coworking](http://www.lanzarotecoworking.com/en), that sadly had to close. Even though there are no official coworking places in Costa Teguise and Puerto del Carmen, most bars and restaurants have gotten used to tons of expacts working on laptops, so it's easy to find a place to work. The local government is [working hard to make it easy to work remotely](https://teguise.es/remote-workers-your-life-in-teguise/).
+There are two coworking places: [The Square](https://www.facebook.com/thesquareespaciodetrabajo/) in Arrecife and [Coworking Lanzarote](https://www.facebook.com/coworkinglanzarote/) in Playa Honda. There was another one, [Lanzarote Coworking](http://www.lanzarotecoworking.com/en), that sadly had to close. Even though there are no official coworking places in Costa Teguise and Puerto del Carmen, most bars and restaurants have gotten used to tons of expacts working on laptops, so it's easy to find a place to work. The local government is [working hard to make it easy to work remotely](https://teguise.es/remote-workers-your-life-in-teguise/).
 
 Most villas and appartments provide ADSL or 4G broadband Internet, 100+ Mbps fiber is increasingly common.
 
@@ -51,7 +51,6 @@ Most villas and appartments provide ADSL or 4G broadband Internet, 100+ Mbps fib
 
 # Live
 
-* http://www.lanzarotecoworking.com/en/blog/read/271904636/where-to-stay-on-lanzarote
 * https://thenomadvisor.com/where-to-stay-in-lanzarote/
 * https://www.guidetocanaryislands.com/where-to-stay-in-lanzarote/
 
