@@ -86,7 +86,8 @@ The capital of the Island. Busy narrow streets, very local and authentic feel. G
 
 Rent a car for as cheap as 100€ per week -- gasoline is cheap too. From most parts of the island, most things to do are 20 to 30 minutes of driving away. Roads are good, the locals drive slow. [Payless](https://www.payless.es/), [Autoreisen](https://autoreisen.com/) and [Plus Car](https://www.pluscar-lanzarote.com/) are the most popular local providers of rentals, with much better prices than global brands.
 
-There is also an [OK bus network on lanzarote](https://lanzaroteinformation.co.uk/lanzarote-buses-0/).
+There is also an [OK bus network on lanzarote](https://lanzaroteinformation.co.uk/lanzarote-buses-0/). There is a myraid of bike rentals available, or you can even buy a cheap second-hand bike at [Bergamin][https://maps.app.goo.gl/XuyGNP1r2sVeCDc39] in Playa Honda. 
+
 
 ## Groceries
 
@@ -157,7 +158,7 @@ There are also a number of private clinics:
 
 # Enjoy
 
-The first thing you do is find a recent edition of the [Gazette Life](https://gazettelife.com/) magazine. They have it in most shops and touristic places, the information office even gives it out for free. Inside you get an up-to-date list of cultural events, trip ideas, weather forecast, dining recommendations. Alternatively, an online list of events is available on https://whatson.lanzaroteinformation.co.uk/events/today/.
+The first thing you do is find a recent edition of the [Gazette Life](https://gazettelife.com/) magazine. They have it in most shops and touristic places, the information office even gives it out for free. Inside you get an up-to-date list of cultural events, trip ideas, weather forecast, dining recommendations. Alternatively, an online list of events is available on [lanza.events](https://lanza.events/).
 
 ## Dining
   
