@@ -88,7 +88,7 @@ Rent a car for as cheap as 100€ per week -- gasoline is cheap too. From most p
 
 * [Autoreisen](https://autoreisen.com/)
 * [Payless](https://www.payless.es/)
-* [Plus Car](https://www.pluscar-lanzarote.com/)
+* [Plus Car](https://www.pluscarcanarias.com/)
 * [Cicar](https://www.cicar.com/en/lanzarote-car-hire)
 * [TopCar](https://top-car-hire.com/en/car-hire/lanzarote/)
 * [Cabrera Medina](https://www.cabreramedina.com/EN/lanzarote-car-hire)
@@ -117,17 +117,18 @@ Lanzarote is called [the island of eternal spring](https://weatherspark.com/y/31
 The usual attire all-year-round are flip-flops, shorts and a good hoodie. The Atlantic ocean acts as a temperature regulator: the water temperature is always around 20°C which makes sure that the air temperature is stable too: it oscilates between 18°C in the winter and 25°C in the summer. It's rarely cold or hot. Most days of the year, it's "just right" for light clothes and no need for heating or A/C. That said, you need a good hoodie or a hat to block the wind. 
 
 The general approach to getting the best weather conditions every day is to [look at the wind direction](https://www.windy.com/station/ad-GCRR?28.959,-13.553,10). Wind from the North? Go to places in the South, such as Puerto del Carmen and Playa Blanca. Wind from the South? Perfect to explore the beaches on the North side. Double-check the current conditions via webcams:
-* [La Garita beach Arrieta](https://www.ayuntamientodeharia.com/haria/?p=15860)
+* [La Garita beach Arrieta](https://www.ayuntamientodeharia.com/haria/web-cam-playa-de-la-garita-arrieta-haria/)
 * [Orzola village](https://www.ayuntamientodeharia.com/haria/webcam-orzola-haria/)
 * [Charco de Palo village](http://webcam.charcodelpalo.com/)
-* [Famara surf](https://elcrucesurf.com/webcam/)
-* [Tinajo](https://www.mediafish.es/en/live-web-cam) (close to Timanfaya national park)
+* Famara
+  * [El Cruce surf](https://elcrucesurf.com/playa-famara.html)
+  * [Red Star Surf](https://www.redstarsurf.com/es/famara-webcam-en-directo/)
 * [Arrecife airport](https://www.youtube.com/watch?v=doqBgKIBBh8&ab_channel=LanzaroteWebcam)
 * Puerto del Carmen
   * [Los Pocillos beach HD](https://www.youtube.com/watch?v=f9dVWHKRP8o&ab_channel=LanzaroteWebcam)
   * [Los Pocillos beach](https://www.skylinewebcams.com/en/webcam/espana/canarias/las-palmas/lanzarote-puerto-del-carmen.html)
-  * [inland](https://www.mediafish.es/en/live-web-cam)
 * Costa Teguise
+  * [Océano Propiedades](https://www.oceanopropiedades.es/webcam-costa-teguise/)
   * [Las Cucharas beach](https://www.skylinewebcams.com/es/webcam/espana/canarias/las-palmas/playa-las-cucharas.html)
   * [Las Cucharas beach](https://www.youtube.com/watch?v=DwUBp6lZrQE&ab_channel=BeachBarLanzarote)
   * [Jablillo beach](https://nativediving.com/webcam-costa-teguise-lanzarote/)
@@ -157,7 +158,7 @@ More info:
 
 Take care of your skin, use sun screen with a high factor. The Sun is very strong here, even in the winter months. 
 
-Drink plenty of water. Tap water is not drinkable. Ice cubes in bars are OK, since they are provided by specialist local companies using clean water. If you are staying longer, it's best to arrange weekly delivery of bottled water from a high-quality spring in Tenerife: https://canariasadomicilio.com/comprar-agua/. 
+Drink plenty of water. Tap water is not drinkable. Ice cubes in bars are OK, since they are provided by specialist local companies using clean water. [Aguas FJ](https://www.aguasfj.com/) delivers bottled water across Lanzarote.
 
 Bring your EU health card, all emergencies, big and small, are handled free of charge in many local clinics. Costa Teguise has a brand new [public clinic](https://www.google.com/search?tbs=lf:1,lf_ui:2&tbm=lcl&sxsrf=ALeKk00ECRXvYHd-md330A4iuE5ddvnFyg:1624785643053&q=costa+teguise+hospital&rflfq=1&num=10&ved=2ahUKEwiG1NuYvrfxAhUMDOwKHex0DFgQtgN6BAgGEAQ#rlfi=hd:;si:16379543462284876244;mv:[[28.993894604955045,-13.501928566483002],[28.9812064870568,-13.524673698929291],null,[28.987550740591736,-13.513301132706147],16]) with an amazing team of pediatricians. Remember to bring your EU health card. 
 
@@ -179,7 +180,7 @@ The first thing you do is find a recent edition of the [Gazette Life](https://ga
 Popular with locals:
   * [Arepera Jojoyo Y Millo](https://www.areperajojotoymillo.com/): husband & wife operated Colombian place
   * [Chacho Fresh](https://www.chachofreshburger.com/): burgers & beers for the hungry ones
-  * [El Bocadito](http://tabernaelbocadito.com/): tapas and meat
+  * [El Bocadito](https://www.elbocadito.net/): tapas and meat
   * [La Bohemia](https://finallylost.com/restaurant-la-bohemia-for-real-meat-lovers/): steakhouse with a great wine selection
   * [La Miñoca](https://www.facebook.com/laminoca): tex-mex with some local food, very popular between young people in the evening
   * [Leo's Burgers](http://www.leosburgerslanzarote.com/): opened during Covid, immediatelly popular
@@ -197,7 +198,7 @@ Lanzarote produces internationally renowned Malvasia, visit to [one of the winer
 
 ## Sports
 
-Lanzarote is a [European Sports Destination](https://lanzaroteesd.com/en). It seems like everyone is into cycling, running, triathlon, surfing, kitesurfing, windsurfing, sailing, swimming, mountain biking, paragliding, yoga and more. 
+Lanzarote is a [European Sports Destination](https://lanzarotesportsdestination.com/en/). It seems like everyone is into cycling, running, triathlon, surfing, kitesurfing, windsurfing, sailing, swimming, mountain biking, paragliding, yoga and more.
 
 There are a number of international competitions happening every year:
 * [big wave surfing](https://www.youtube.com/watch?v=72Pt2A6c-7c&ab_channel=QuemaoClass)
@@ -205,5 +206,5 @@ There are a number of international competitions happening every year:
 * [mountain bike race over vulcanos](https://www.youtube.com/watch?time_continue=39&v=34ew4uOmr2c&feature=emb_title&ab_channel=ClubLaSanta)
 * [foil windsurfing race around the island](https://www.youtube.com/watch?v=4r3Sk5T5-NE&ab_channel=LanzaroteDeportiva)
 * [freestyle windsurfing European tour](https://vimeo.com/137472647)
-* [sailing regatta](https://www.lanzarotewinterseries.com/)
+* [sailing regattas](https://www.marinarubiconsailingcenter.com/)
 * [scuba diving](https://www.youtube.com/watch?v=sRzoc90nH7c)
